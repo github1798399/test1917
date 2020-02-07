@@ -11,4 +11,7 @@ public class person {
 
     private String phone;
 
+    private String address;
+
+
 }
