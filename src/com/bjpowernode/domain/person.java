@@ -13,5 +13,7 @@ public class person {
 
     private String address;
 
+    private String bran1;
+
 
 }
